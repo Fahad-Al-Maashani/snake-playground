@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# This script makes fake commits to simulate a dense contribution graph
-# Requires Git to be installed
+# This script for testing only
 
 START_DATE="2024-07-01"
 END_DATE="2025-06-30"
